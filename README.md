@@ -1,5 +1,5 @@
 Business needs
-Predict the price of Toyota Corolla using Linear Regression
+Predict the obesity level of people using Classification
 
 Requirements
 
@@ -15,7 +15,7 @@ Running:
         python predict.py
 
     After running the script in models folder will be generated <prediction_results.csv>
-    The file has 'Gender_pred' column with the result value.
+    The file has 'ObesityLevel_pred' column with the result value.
 
     The input is expected  csv file in models folder with a name <new_input.csv>. The file should have all features columns.
 
